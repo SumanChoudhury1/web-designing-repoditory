@@ -1,0 +1,358 @@
+/* top-section comment */
+img {
+    width: 100%;
+}
+
+.navbar ul li a {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+}
+.b-contain {
+    padding-top: 12%;
+    position: absolute;
+    text-align: center;
+    padding-left: 32%;
+    color: #fbfffd;
+}
+.b-contain h3 {
+    font-size: 51px;
+}
+button {
+    padding: 9px 43px;
+    border: none;
+    margin: 22px;
+}
+.l-cont {
+    border: 2px solid white;
+    background-color: transparent;
+}
+.r-cont{
+    background-color: #f1d204;
+}
+.b-contain p {
+    font-size: 14px;
+    padding-top: 1px;
+    }
+
+/*end of top section*/
+
+.section-one {
+    text-align: center;
+    padding-top: 76px;
+}
+p {
+    font-size: 14px;
+}
+.h-heading h2 {
+    padding-bottom: 10px;
+    font-size: 48px;
+}
+
+.bg-col-1 {
+    background: #f18b6d;
+    line-height: 1.2;
+}
+.bg-col-2{
+    background-color: #f1d204;
+}
+.bg-col-3{
+    background-color:#6a4d8a;
+}
+.l-pera {
+    margin: 0 166px 0px 100px;
+    background-color:#f18b6d;
+}
+.m-pera {
+    margin: 0 166px 0px 100px;
+    background-color: #f1d204;
+}
+.r-pera {
+    margin: 0 166px 0px 100px;
+    background-color:#6a4d8a;
+}
+.nw-hnd {
+    padding-top: 26px;
+    text-align: left;
+}
+.blanck-section h3 {
+    font-size: 41px;
+    padding-bottom: 7px;
+}
+.blanck-section p {
+    font-size: 19px;
+    padding-bottom: 77px;
+}
+.section-three .col-md-3 {
+    padding: 0;
+}
+.multiple-line {
+    text-align: center;
+    padding-top: 103px;
+}
+.multiple-line img {
+    border-radius: 100px;
+}
+.multiple-line p {
+    color: white;
+    display: -webkit-box;
+    background: #5e447b;
+    width: 59%;
+    margin: 15px auto;
+    padding: 22px;
+}
+.multiple-line h5 {
+    padding-top: 63px;
+    color: white;
+    font-size: 31px;
+}
+.multiple-line img {
+    border-radius: 100px;
+    width: 90px;
+}
+.top-section{
+    background-image: url(../image/b-top-img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 650px;
+}
+.section-fourth{
+ background-image: url(../image/bg-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.section-six {
+    text-align: center;
+    padding: 51px;
+}
+.t-multiple-line h5 {
+    font-size: 26px;
+}
+.t-multiple-line i {
+    font-size: 27px;
+}
+.section-five {
+    padding-top: 48px;
+}
+.multiple-line h1 {
+    color: white;
+    padding-bottom: 17px;
+}
+.si-line {
+    text-align: center;
+}
+.d-btn {
+    background: #f1d204;
+    padding: 11px 52px 19px 53px;
+}
+b {
+    font-size: 24px;
+}
+
+.section-eight {
+    padding-top: 63px;
+    background-color: #222f36;
+    padding-bottom: 45px;
+}
+li.nav-item {
+    padding: 0 10px;
+}
+.mn-pol {
+    background-color: white;
+}
+.mn-pol h2 {
+    padding: 17px 19px;
+    font-size: 29px;
+}
+.mn-pol p {
+    padding: 35px 25px;
+}
+.si-line {
+    color: white;
+    padding-bottom: 40px;
+}
+button {
+    padding: 23px 99px;
+    border: none;
+    margin: 22px;
+    color: white;
+}
+.section-nine {
+    padding: 49px 1px;
+    background-color: #f1d204;
+    color: white;
+}
+.bg-yellow {
+    border-right: 2px solid #fff;
+}
+.redius-border img {
+    border-radius: 100px;
+    width: 78%;
+    padding: 3px;
+}
+.peragraph-class h2 {
+    font-size: 24px;
+}
+.peragraph-class h5 {
+    font-size: 17px;
+}
+.peragraph-class p {
+    padding-top: 19px;
+}
+ul.list-t {
+    padding: 0;
+}
+.list-t li {
+    display: inline-block;
+    padding: 0px 6px;
+    border: 2px solid #f18b6d;
+    border-radius: 100px;
+    margin: 0 5px 0 0;
+}
+.list-r li {
+    display: inline-block;
+    padding: 0px 6px;
+    border: 2px solid #f1d204;
+    border-radius: 100px;
+    margin: 0 5px 0 0;
+}
+.list-e li {
+    display: inline-block;
+    padding: 0px 6px;
+    border: 2px solid #5e447b;
+    border-radius: 100px;
+    margin: 0 5px 0 0;
+}
+ul.list-r{
+    padding: 0;
+}
+.peragraph-class h5 {
+    font-size: 19px;
+}
+ul.list-e{
+    padding: 0;
+}
+.section-ten {
+    padding-bottom: 87px;
+    padding-top: 37px;
+    background-color: rgb(240, 238, 238);
+}
+.multiple-1-line {
+    text-align: center;
+    padding-top: 48px;
+    padding-bottom: 76px;
+    padding-left: 271px;
+}
+.list-list li {
+    display: inline-block;
+    padding-right: 12px;
+}
+.hrading-two {
+    padding-bottom: 67px;
+    text-align: center;
+    padding-top: 40px;
+}
+.section-tw {
+    padding-top: 90px;
+    padding-bottom: 97px;
+    background-color: #221f1f;
+}
+.one {
+    color:#fff;
+}
+.list-l li {
+    padding: 9px 0px 0px 0px;
+}
+.one h3 {
+    padding-bottom: 23px;
+    font-size: 24px;
+}
+.section-tharteen {
+    padding: 17px;
+    color: whitesmoke;
+    background-color: black;
+}
+.end {
+    padding-left: 254px;
+}
+input#fname {
+    padding: 4px 88px;
+}
+.section-e {
+    padding-bottom: 127px;
+}
+input#fname {
+    padding: 4px 88px;
+    background: rgb(240, 238, 238);
+    border:white;
+}
+.sub-fom {
+    padding-top: 21px;
+}
+.sub-fom input#fname {
+    padding: 196px 940px 0 0;
+}
+label {
+    font-size: 18px;
+}
+.multiple-h-line {
+    text-align: center;
+    padding-top: 17px;
+    padding-bottom: 45px;
+}
+.blanck-section {
+    padding-left: 378px;
+    text-align: center;
+}
+.border-h {
+    border-left: 3px solid rgb(240, 238, 238);
+    height: 51px;
+}
+.p-pera p {
+    margin-left: 16px;
+}
+.k-pera li {
+    display: inline-block;
+    margin-right: 13px;
+}
+form {
+    padding-top: 35px;
+}
+.list-l {
+    color: rgb(121, 120, 120);
+}
+.section-two {
+    padding-top: 110px;
+}
+.t-multiple-line i {
+    font-size: 39px;
+}
+.t-multiple-line h5 {
+    font-family: sans-serif;
+    font-size: 31px;
+    padding-top: 11px;
+    padding-bottom: 13px;
+}
+.right-pera h4 {
+    color: white;
+}
+.right-pera p {
+    color: rgb(121, 120, 120);
+    padding-top: 33px;
+    padding-bottom: 19px;
+}
+.right-pera-r li {
+    color: white;
+    display: inline-block;
+    padding: 0px 19px 0px 0px;
+}
+ul.right-pera-r {
+    padding: 0;
+    margin-top: 28px;
+    font-size: 30px;
+}
+.multiple-1-line h2 {
+    font-size: 48px;
+    padding-bottom: 17px;
+}
